@@ -28,6 +28,9 @@ class _SearchControllerState extends State<SearchController> {
             child: TextField(
               controller: controller,
               maxLines: 1,
+              onSubmitted: (value) {
+                _dishpatchSearchEvent();
+              },
               decoration: InputDecoration(
                 isDense: true,
                 labelText: "search Articles here..",
@@ -47,15 +50,19 @@ class _SearchControllerState extends State<SearchController> {
           ),
           ElevatedButton(
             onPressed: () {
-              BlocProvider.of<ArticlesBloc>(this.context).add(
-                SearchArticleEvent(
-                  params: SearchArticleParams(query: controller.text),
-                ),
-              );
+              _dishpatchSearchEvent();
             },
             child: Text("Search"),
           ),
         ],
+      ),
+    );
+  }
+
+  void _dishpatchSearchEvent() {
+    BlocProvider.of<ArticlesBloc>(this.context).add(
+      SearchArticleEvent(
+        params: SearchArticleParams(query: controller.text),
       ),
     );
   }

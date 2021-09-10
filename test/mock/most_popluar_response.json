@@ -1,0 +1,1224 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/78d8f3ad-b7e9-5464-b218-93220e85ef3e",
+            "url": "https://www.nytimes.com/2021/08/12/health/metabolism-weight-aging.html",
+            "id": 100000007918021,
+            "asset_id": 100000007918021,
+            "source": "New York Times",
+            "published_date": "2021-08-12",
+            "updated": "2021-08-16 22:19:55",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Weight;Calories;Diet and Nutrition;Age, Chronological;Research;Women and Girls;Menopause;your-feed-science;your-feed-health;your-feed-selfcare;Science (Journal)",
+            "column": null,
+            "byline": "By Gina Kolata",
+            "type": "Article",
+            "title": "What We Think We Know About Metabolism May Be Wrong",
+            "abstract": "A new study challenges assumptions about energy expenditure by people, including the idea that metabolism slows at middle age.",
+            "des_facet": [
+                "Weight",
+                "Calories",
+                "Diet and Nutrition",
+                "Age, Chronological",
+                "Research",
+                "Women and Girls",
+                "Menopause",
+                "your-feed-science",
+                "your-feed-health",
+                "your-feed-selfcare"
+            ],
+            "org_facet": [
+                "Science (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Controlling for factors like body size and muscle mass, researchers found that there are basically four phases of metabolic rates, and that a slowdown in adults doesn&rsquo;t occur until after age 60.",
+                    "copyright": "Desiree Rios for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/17/science/12sci-metabolism/12sci-metabolism-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/17/science/12sci-metabolism/12sci-metabolism-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/17/science/12sci-metabolism/12sci-metabolism-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ac950d9b-ebe2-58e2-af22-c6f00de9fbb5",
+            "url": "https://www.nytimes.com/2021/09/06/arts/michael-k-williams-dead.html",
+            "id": 100000007958619,
+            "asset_id": 100000007958619,
+            "source": "New York Times",
+            "published_date": "2021-09-06",
+            "updated": "2021-09-08 12:03:41",
+            "section": "Arts",
+            "subsection": "",
+            "nytdsection": "arts",
+            "adx_keywords": "Deaths (Obituaries);Television;Actors and Actresses;Williams, Michael Kenneth",
+            "column": null,
+            "byline": "By Julia Jacobs, Annie Correal, Matthew Haag and Jeremy Egner",
+            "type": "Article",
+            "title": "Michael K. Williams, Omar From ‘The Wire,’ Is Dead at 54",
+            "abstract": "Mr. Williams, who also starred in “Boardwalk Empire” and “Lovecraft Country,” was best known for his role as Omar Little in the David Simon HBO series.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Television",
+                "Actors and Actresses"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Williams, Michael Kenneth"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michael K. Williams at the Nostrand Avenue basketball court in the Flatbush neighborhood of Brooklyn in 2017. His work frequently examined the intersection of race, masculinity, crime and institutional failure.",
+                    "copyright": "Demetrius Freeman for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/07/obituaries/07michaelwilliams-obit1-sub/07michaelwilliams-obit1-sub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/07/obituaries/07michaelwilliams-obit1-sub/07michaelwilliams-obit1-sub-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/07/obituaries/07michaelwilliams-obit1-sub/07michaelwilliams-obit1-sub-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/09892e40-c661-528a-9ef1-3d9c8e4800db",
+            "url": "https://www.nytimes.com/2021/08/20/us/abbott-covid-tests.html",
+            "id": 100000007925016,
+            "asset_id": 100000007925016,
+            "source": "New York Times",
+            "published_date": "2021-08-20",
+            "updated": "2021-08-21 10:42:32",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Coronavirus (2019-nCoV);Tests (Medical);Layoffs and Job Reductions;Factories and Manufacturing;Abbott Laboratories;Westbrook (Me)",
+            "column": null,
+            "byline": "By Sheri Fink",
+            "type": "Article",
+            "title": "Maker of Popular Covid Test Told Factory to Destroy Inventory",
+            "abstract": "One of the leading producers of rapid tests purged supplies and laid off workers as sales dwindled. Weeks later, the U.S. is facing a surge in infections with diminished capacity.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Tests (Medical)",
+                "Layoffs and Job Reductions",
+                "Factories and Manufacturing"
+            ],
+            "org_facet": [
+                "Abbott Laboratories"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Westbrook (Me)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "BinaxNOW, a rapid antigen test made by Abbott, can provide results in 15 minutes.",
+                    "copyright": "Ted S. Warren/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/20/us/20-virus-test-promo/merlin_185846220_e9bd68cd-7951-4cec-91f8-aef2d60d6002-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/20/us/20-virus-test-promo/merlin_185846220_e9bd68cd-7951-4cec-91f8-aef2d60d6002-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/20/us/20-virus-test-promo/merlin_185846220_e9bd68cd-7951-4cec-91f8-aef2d60d6002-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/283b0d18-e935-51f4-b975-8ff4b869b40d",
+            "url": "https://www.nytimes.com/2021/08/25/arts/music/spencer-alden-nirvana-nevermind.html",
+            "id": 100000007938314,
+            "asset_id": 100000007938314,
+            "source": "New York Times",
+            "published_date": "2021-08-25",
+            "updated": "2021-08-27 11:50:05",
+            "section": "Arts",
+            "subsection": "Music",
+            "nytdsection": "arts",
+            "adx_keywords": "Suits and Litigation (Civil);Child Pornography;Pop and Rock Music;Babies and Infants;Photography;Cobain, Kurt;Elden, Spencer;Nirvana (Music Group);California",
+            "column": null,
+            "byline": "By Maria Cramer",
+            "type": "Article",
+            "title": "Why the Baby on Nirvana’s ‘Nevermind’ Album Is Suing Now",
+            "abstract": "Spencer Elden, 30, says Nirvana engaged in child pornography when the band used a picture of him naked on the cover of the breakthrough album.",
+            "des_facet": [
+                "Suits and Litigation (Civil)",
+                "Child Pornography",
+                "Pop and Rock Music",
+                "Babies and Infants",
+                "Photography"
+            ],
+            "org_facet": [
+                "Nirvana (Music Group)"
+            ],
+            "per_facet": [
+                "Cobain, Kurt",
+                "Elden, Spencer"
+            ],
+            "geo_facet": [
+                "California"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Spencer Elden says he has grown increasingly uncomfortable with how he came to be on the cover of &ldquo;Nevermind.&rdquo; This picture was taken in 2016 at the same pool, when he and the record were both 25.",
+                    "copyright": "John Chapple/SplashNews",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/multimedia/25xp-nirvana4/25xp-nirvana4-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/multimedia/25xp-nirvana4/25xp-nirvana4-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/multimedia/25xp-nirvana4/25xp-nirvana4-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ce5c6a70-9883-5ae7-b911-06b7bb04f7bd",
+            "url": "https://www.nytimes.com/2021/08/20/us/politics/fda-pfizer-covid-vaccine-full-approval.html",
+            "id": 100000007928449,
+            "asset_id": 100000007928449,
+            "source": "New York Times",
+            "published_date": "2021-08-20",
+            "updated": "2021-08-31 21:34:52",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Drugs (Pharmaceuticals)",
+            "column": null,
+            "byline": "By Noah Weiland and Sharon LaFraniere",
+            "type": "Article",
+            "title": "The F.D.A. is aiming to give full approval to Pfizer’s Covid vaccine on Monday.",
+            "abstract": "Federal regulators are winding down the process of licensing Pfizer’s two-dose coronavirus vaccine, setting up an approval possibly by Monday and potentially kicking off a wave of new mandates.",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Drugs (Pharmaceuticals)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pfizer vaccines were administered at the St. John Chrysostom Catholic Parish in The Bronx on Sunday.",
+                    "copyright": "James Estrin/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/20/us/20virus-briefing-pfizer/merlin_193078188_7aee1bca-02cb-4b61-bb39-aaeadc48dc0d-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/20/us/20virus-briefing-pfizer/merlin_193078188_7aee1bca-02cb-4b61-bb39-aaeadc48dc0d-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/20/us/20virus-briefing-pfizer/merlin_193078188_7aee1bca-02cb-4b61-bb39-aaeadc48dc0d-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ac4c37c2-a7f8-5a9a-ade2-ebdb4c5115b3",
+            "url": "https://www.nytimes.com/article/covid-breakthrough-delta-variant.html",
+            "id": 100000007912869,
+            "asset_id": 100000007912869,
+            "source": "New York Times",
+            "published_date": "2021-08-10",
+            "updated": "2021-09-09 23:54:24",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "your-feed-science;Disease Rates;Coronavirus (2019-nCoV);Vaccination and Immunization;Immune System;Antibodies;Deaths (Fatalities);Coronavirus Delta Variant;Content Type: Service;Centers for Disease Control and Prevention;United States",
+            "column": null,
+            "byline": "By Apoorva Mandavilli",
+            "type": "Article",
+            "title": "What to Know About Breakthrough Infections and the Delta Variant",
+            "abstract": "Scientific understanding of the coronavirus variant is changing quickly. Here’s a recap of the most important findings.",
+            "des_facet": [
+                "your-feed-science",
+                "Disease Rates",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Immune System",
+                "Antibodies",
+                "Deaths (Fatalities)",
+                "Coronavirus Delta Variant",
+                "Content Type: Service"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Administering a Covid-19 vaccine in Moultrie, Ga., last month. The vaccines are highly effective at preventing severe illness and death, but it’s not clear how the Delta variant has affected the likelihood of breakthrough infections.",
+                    "copyright": "Matthew Odom for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/10/science/00virus-breakthrough2/00virus-breakthrough2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/10/science/00virus-breakthrough2/00virus-breakthrough2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/10/science/00virus-breakthrough2/00virus-breakthrough2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/918fdcdb-dfa6-58ec-86d4-77f11023f4d5",
+            "url": "https://www.nytimes.com/2021/09/01/business/joe-rogan-covid-19.html",
+            "id": 100000007951494,
+            "asset_id": 100000007951494,
+            "source": "New York Times",
+            "published_date": "2021-09-01",
+            "updated": "2021-09-04 16:16:51",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Podcasts;Drugs (Pharmaceuticals);Rogan, Joe;Florida",
+            "column": null,
+            "byline": "By Alyssa Lukpat",
+            "type": "Article",
+            "title": "Joe Rogan, a podcasting giant who has been dismissive of vaccination, has Covid.",
+            "abstract": "“I got fevers, sweats, and I knew what was going on,” he said in a video on Instagram on Wednesday, after returning from a series of shows in Florida.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Podcasts",
+                "Drugs (Pharmaceuticals)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Rogan, Joe"
+            ],
+            "geo_facet": [
+                "Florida"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joe Rogan performing in August 2019 at the Ice House Comedy Club in Pasadena, Calif.",
+                    "copyright": "Michael S. Schwartz/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-joe-rogan-01/01virus-briefing-joe-rogan-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-joe-rogan-01/01virus-briefing-joe-rogan-01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-joe-rogan-01/01virus-briefing-joe-rogan-01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fd1e1282-7186-5994-9b18-2ae1da4c1ecf",
+            "url": "https://www.nytimes.com/article/breakthrough-infections-covid-19-coronavirus.html",
+            "id": 100000007948722,
+            "asset_id": 100000007948722,
+            "source": "New York Times",
+            "published_date": "2021-09-01",
+            "updated": "2021-09-07 23:02:40",
+            "section": "Well",
+            "subsection": "",
+            "nytdsection": "well",
+            "adx_keywords": "Coronavirus Risks and Safety Concerns;Disease Rates;Coronavirus Delta Variant;Vaccination and Immunization;Coronavirus (2019-nCoV);Coronavirus Reopenings;Content Type: Service",
+            "column": null,
+            "byline": "By Tara Parker-Pope",
+            "type": "Article",
+            "title": "Worried About Breakthrough Infections? Here’s How to Navigate This Phase of the Pandemic.",
+            "abstract": "If you’re vaccinated, you should think about a number of variables, including your overall health, where you live and the risks you take.",
+            "des_facet": [
+                "Coronavirus Risks and Safety Concerns",
+                "Disease Rates",
+                "Coronavirus Delta Variant",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Coronavirus Reopenings",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christopher Capozziello for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/01/well/01Well-Breakthrough-explainer1/merlin_187725252_3797cddb-8610-4a8d-ba39-0b1e5732afe0-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/01/well/01Well-Breakthrough-explainer1/merlin_187725252_3797cddb-8610-4a8d-ba39-0b1e5732afe0-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/01/well/01Well-Breakthrough-explainer1/merlin_187725252_3797cddb-8610-4a8d-ba39-0b1e5732afe0-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3566d2a2-37a8-5f20-a123-f5a430164e36",
+            "url": "https://www.nytimes.com/2021/08/10/us/politics/infrastructure-bill-passes.html",
+            "id": 100000007913797,
+            "asset_id": 100000007913797,
+            "source": "New York Times",
+            "published_date": "2021-08-10",
+            "updated": "2021-09-09 08:34:59",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "American Jobs Plan (2021);Infrastructure (Public Works);Law and Legislation;Federal Budget (US);Federal Taxes (US);United States Economy;United States Politics and Government;Bridges and Tunnels;Global Warming;Alternative and Renewable Energy;Electric Light and Power;Water Pollution;Biden, Joseph R Jr;Senate;Democratic Party;Republican Party",
+            "column": null,
+            "byline": "By Emily Cochrane",
+            "type": "Article",
+            "title": "Senate Passes $1 Trillion Infrastructure Bill, Handing Biden a Bipartisan Win",
+            "abstract": "The approval came after months of negotiations and despite deficit concerns, reflecting an appetite in both parties for the long-awaited spending package.",
+            "des_facet": [
+                "American Jobs Plan (2021)",
+                "Infrastructure (Public Works)",
+                "Law and Legislation",
+                "Federal Budget (US)",
+                "Federal Taxes (US)",
+                "United States Economy",
+                "United States Politics and Government",
+                "Bridges and Tunnels",
+                "Global Warming",
+                "Alternative and Renewable Energy",
+                "Electric Light and Power",
+                "Water Pollution"
+            ],
+            "org_facet": [
+                "Senate",
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/80030d4a-5a86-5043-8c1e-745e63da7a7d",
+            "url": "https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html",
+            "id": 100000007924769,
+            "asset_id": 100000007924769,
+            "source": "New York Times",
+            "published_date": "2021-08-18",
+            "updated": "2021-08-24 15:36:07",
+            "section": "World",
+            "subsection": "Middle East",
+            "nytdsection": "world",
+            "adx_keywords": "Disease Rates;Coronavirus Delta Variant;Coronavirus (2019-nCoV);Politics and Government;Vaccination and Immunization;Israel",
+            "column": null,
+            "byline": "By Isabel Kershner",
+            "type": "Article",
+            "title": "Israel, Once the Model for Beating Covid, Faces New Surge of Infections",
+            "abstract": "One of the most vaccinated societies, Israel now has one of the highest infection rates in the world, raising questions about the vaccine’s efficacy.",
+            "des_facet": [
+                "Disease Rates",
+                "Coronavirus Delta Variant",
+                "Coronavirus (2019-nCoV)",
+                "Politics and Government",
+                "Vaccination and Immunization"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A coronavirus isolation ward last week in Safed, Israel. Infections have more than doubled in the last two weeks.",
+                    "copyright": "Jalaa Marey/AFP — Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/18/world/18ISRAEL-VIRUS01/18ISRAEL-VIRUS01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/18/world/18ISRAEL-VIRUS01/18ISRAEL-VIRUS01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/18/world/18ISRAEL-VIRUS01/18ISRAEL-VIRUS01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b941bbfb-cced-5270-8e94-ea3ec3bfb02a",
+            "url": "https://www.nytimes.com/2021/06/18/science/koepcke-diller-panguana-amazon-crash.html",
+            "id": 100000007768508,
+            "asset_id": 100000007768508,
+            "source": "New York Times",
+            "published_date": "2021-06-18",
+            "updated": "2021-06-22 00:13:52",
+            "section": "Science",
+            "subsection": "",
+            "nytdsection": "science",
+            "adx_keywords": "Aviation Accidents, Safety and Disasters;Biodiversity;Animals;Insects;Research;Content Type: Personal Profile;your-feed-science;Diller, Juliane (1954- );Panguana Research Station (Peru);Amazon Jungle;Peru",
+            "column": null,
+            "byline": "By Franz Lidz",
+            "type": "Article",
+            "title": "She Fell Nearly 2 Miles, and Walked Away",
+            "abstract": "At 17, biologist Juliane Diller was the sole survivor of a plane crash in the Amazon. Fifty years later she still runs Panguana, a research station founded by her parents in Peru.",
+            "des_facet": [
+                "Aviation Accidents, Safety and Disasters",
+                "Biodiversity",
+                "Animals",
+                "Insects",
+                "Research",
+                "Content Type: Personal Profile",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Panguana Research Station (Peru)"
+            ],
+            "per_facet": [
+                "Diller, Juliane (1954- )"
+            ],
+            "geo_facet": [
+                "Amazon Jungle",
+                "Peru"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Juliane Diller recently retired as deputy director of the Bavarian State Collection of Zoology in Munich. “The next thing I knew, I was no longer inside the cabin,” she recalled. “I hadn’t left the plane; the plane had left me.”",
+                    "copyright": "Laetitia Vancon for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/18/science/18SCI-SKYFALL1/18SCI-SKYFALL1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/18/science/18SCI-SKYFALL1/18SCI-SKYFALL1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/06/18/science/18SCI-SKYFALL1/18SCI-SKYFALL1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e93ad1c6-1ed3-5c4c-86fd-44a40cb9525c",
+            "url": "https://www.nytimes.com/2021/08/20/business/mike-richards-quits-jeopardy.html",
+            "id": 100000007931192,
+            "asset_id": 100000007931192,
+            "source": "New York Times",
+            "published_date": "2021-08-20",
+            "updated": "2021-08-31 12:47:24",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Television;Contests and Prizes;Discrimination;Women and Girls;Richards, Mike (1975- )",
+            "column": null,
+            "byline": "By Michael M. Grynbaum, Nicole Sperling and Julia Jacobs",
+            "type": "Article",
+            "title": "Abrupt Exit of New ‘Jeopardy!’ Host, Mike Richards, Rattles a TV Institution",
+            "abstract": "Mr. Richards was named as Alex Trebek’s replacement last week, but offensive and sexist comments he made on a podcast several years ago resurfaced. He will remain as executive producer.",
+            "des_facet": [
+                "Television",
+                "Contests and Prizes",
+                "Discrimination",
+                "Women and Girls"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Richards, Mike (1975- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As executive producer of the game show, Mike Richards oversaw the search for Alex Trebek’s replacement.",
+                    "copyright": "Carol Kaelson/Sony Pictures Entertainment",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/15/multimedia/20jeopardy/15Weekender-Jeopardy-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/15/multimedia/20jeopardy/15Weekender-Jeopardy-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/15/multimedia/20jeopardy/15Weekender-Jeopardy-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/64c836a7-9162-5dcf-81fb-b6a1b73ffbc4",
+            "url": "https://www.nytimes.com/2021/08/12/well/live/delta-variant-symptoms.html",
+            "id": 100000007912540,
+            "asset_id": 100000007912540,
+            "source": "New York Times",
+            "published_date": "2021-08-12",
+            "updated": "2021-08-31 00:38:22",
+            "section": "Well",
+            "subsection": "Live",
+            "nytdsection": "well",
+            "adx_keywords": "Coronavirus Delta Variant;Coronavirus (2019-nCoV);Vaccination and Immunization;Disease Rates;Coronavirus Risks and Safety Concerns;United States",
+            "column": null,
+            "byline": "By Christina Caron",
+            "type": "Article",
+            "title": "Are Delta Symptoms Different?",
+            "abstract": "We asked experts to describe the most prevalent symptoms they’re seeing right now among people with Covid-19.",
+            "des_facet": [
+                "Coronavirus Delta Variant",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Disease Rates",
+                "Coronavirus Risks and Safety Concerns"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mike Kai Chen for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/12/well/12sci-well-deltasymptoms1/12sci-well-deltasymptoms1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/12/well/12sci-well-deltasymptoms1/12sci-well-deltasymptoms1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/12/well/12sci-well-deltasymptoms1/12sci-well-deltasymptoms1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4bef814e-eb9f-50c0-91a3-f19878bf1621",
+            "url": "https://www.nytimes.com/2021/08/14/opinion/barack-obama-birthday.html",
+            "id": 100000007918903,
+            "asset_id": 100000007918903,
+            "source": "New York Times",
+            "published_date": "2021-08-14",
+            "updated": "2021-08-15 18:07:05",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Parties (Social);Birthdays;Celebrities;United States Politics and Government;Obama, Barack;Martha's Vineyard (Mass)",
+            "column": null,
+            "byline": "By Maureen Dowd",
+            "type": "Article",
+            "title": "Behold Barack Antoinette",
+            "abstract": "He hated politics. But he loves post-politics. ",
+            "des_facet": [
+                "Parties (Social)",
+                "Birthdays",
+                "Celebrities",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Obama, Barack"
+            ],
+            "geo_facet": [
+                "Martha's Vineyard (Mass)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Robert Redford with his Daisy, Mia Farrow, in 1974’s “The Great Gatsby.”",
+                    "copyright": "Paramount Pictures, via Everett Collection",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/14/opinion/14Dowd/14Dowd-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/14/opinion/14Dowd/14Dowd-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/14/opinion/14Dowd/14Dowd-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d891e5bf-00b9-5883-ae41-50100872de7a",
+            "url": "https://www.nytimes.com/2021/08/26/us/harvard-chaplain-greg-epstein.html",
+            "id": 100000007923103,
+            "asset_id": 100000007923103,
+            "source": "New York Times",
+            "published_date": "2021-08-26",
+            "updated": "2021-09-02 08:16:53",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;Chaplains;Religion and Belief;Atheism;Content Type: Personal Profile;Epstein, Greg M;Harvard University",
+            "column": null,
+            "byline": "By Emma Goldberg",
+            "type": "Article",
+            "title": "The New Chief Chaplain at Harvard? An Atheist.",
+            "abstract": "The elevation of Greg Epstein, author of “Good Without God,” reflects a broader trend of young people who increasingly identify as spiritual but religiously nonaffiliated.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Chaplains",
+                "Religion and Belief",
+                "Atheism",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Harvard University"
+            ],
+            "per_facet": [
+                "Epstein, Greg M"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Greg Epstein has been Harvard’s humanist chaplain since 2005.",
+                    "copyright": "Cody O'Loughlin for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/us/26harvard-chaplains/26harvard-chaplains-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/us/26harvard-chaplains/26harvard-chaplains-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/us/26harvard-chaplains/26harvard-chaplains-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/16233940-aa6c-5da8-af30-1574a8700f96",
+            "url": "https://www.nytimes.com/2021/08/16/us/politics/booster-shots.html",
+            "id": 100000007924353,
+            "asset_id": 100000007924353,
+            "source": "New York Times",
+            "published_date": "2021-08-16",
+            "updated": "2021-09-03 11:38:19",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "United States Politics and Government;Vaccination and Immunization;Coronavirus Delta Variant;Coronavirus (2019-nCoV);Biden, Joseph R Jr;Pfizer Inc;BioNTech SE;Moderna Inc;Food and Drug Administration;United States",
+            "column": null,
+            "byline": "By Sharon LaFraniere",
+            "type": "Article",
+            "title": "U.S. to Advise Boosters for Most Americans 8 Months After Vaccination",
+            "abstract": "Nursing home residents and health care workers will most likely be the first to get booster shots, as soon as September, followed by other older people who were vaccinated last winter.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Vaccination and Immunization",
+                "Coronavirus Delta Variant",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Pfizer Inc",
+                "BioNTech SE",
+                "Moderna Inc",
+                "Food and Drug Administration"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A vaccination site in New York on Monday. Biden administration officials are planning to recommend third doses for recipients of the Pfizer-BioNTech and Moderna vaccines.",
+                    "copyright": "James Estrin/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/16/us/16dc-virus-boosters/16dc-virus-boosters-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/16/us/16dc-virus-boosters/16dc-virus-boosters-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/16/us/16dc-virus-boosters/16dc-virus-boosters-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/98e06764-eb19-5237-8bde-43c87cc518a6",
+            "url": "https://www.nytimes.com/2021/08/30/nyregion/child-dead-foster-care.html",
+            "id": 100000007925051,
+            "asset_id": 100000007925051,
+            "source": "New York Times",
+            "published_date": "2021-08-30",
+            "updated": "2021-08-30 22:14:21",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Child Abuse and Neglect;Child Custody and Support;Parenting;Foster Care;Deaths (Fatalities);Batties, Julissia;Administration for Children's Services (NYC);Office of Children and Family Services (NYS);Bronx (NYC);New York City",
+            "column": null,
+            "byline": "By Michael Wilson, Ashley Southall and Chelsia Rose Marcius",
+            "type": "Article",
+            "title": "At Birth, She Already Had a Case File. At 7 Years Old, She Was Dead.",
+            "abstract": "A child welfare system meant to protect Julissia Batties from an abusive home life failed the ultimate test.",
+            "des_facet": [
+                "Child Abuse and Neglect",
+                "Child Custody and Support",
+                "Parenting",
+                "Foster Care",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "Administration for Children's Services (NYC)",
+                "Office of Children and Family Services (NYS)"
+            ],
+            "per_facet": [
+                "Batties, Julissia"
+            ],
+            "geo_facet": [
+                "Bronx (NYC)",
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Desiree Rios for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/nyregion/00julissia-promo/00julissia-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/nyregion/00julissia-promo/00julissia-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/27/nyregion/00julissia-promo/00julissia-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d0e9e738-ed7a-5dfe-bdc8-4e6aa165c309",
+            "url": "https://www.nytimes.com/2021/08/24/style/cotton-totes-climate-crisis.html",
+            "id": 100000007877406,
+            "asset_id": 100000007877406,
+            "source": "New York Times",
+            "published_date": "2021-08-24",
+            "updated": "2021-09-09 12:32:00",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Handbags and Purses;Textiles;Fashion and Apparel;Cotton;Plastic Bags;Shopping and Retail;Sustainable Living;Recycling of Waste Materials;your-feed-fashion;audio-negative-tragedy;audio-neutral-informative;Hindmarch, Anya",
+            "column": null,
+            "byline": "By Grace Cook",
+            "type": "Article",
+            "title": "The Cotton Tote Crisis",
+            "abstract": "You can get cotton bags pretty much everywhere. How did an environmental solution become part of the problem?",
+            "des_facet": [
+                "Handbags and Purses",
+                "Textiles",
+                "Fashion and Apparel",
+                "Cotton",
+                "Plastic Bags",
+                "Shopping and Retail",
+                "Sustainable Living",
+                "Recycling of Waste Materials",
+                "your-feed-fashion",
+                "audio-negative-tragedy",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Hindmarch, Anya"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A laundry line of cotton totes accumulated by a single person since the race to replace plastic began.",
+                    "copyright": "Suzie Howell for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/fashion/23cottontotes-1/23cottontotes-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/fashion/23cottontotes-1/23cottontotes-1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/26/fashion/23cottontotes-1/23cottontotes-1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/11d6b2c1-c2c5-55c8-8561-afef3947af40",
+            "url": "https://www.nytimes.com/2021/08/12/us/new-york-city-population-growth.html",
+            "id": 100000007919098,
+            "asset_id": 100000007919098,
+            "source": "New York Times",
+            "published_date": "2021-08-12",
+            "updated": "2021-08-19 16:51:30",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Census;Population;New York City",
+            "column": null,
+            "byline": "By Annie Correal",
+            "type": "Article",
+            "title": "New York City adds 629,000 people, defying predictions of its decline.",
+            "abstract": "The city has grown nearly 8 percent since 2010, and now has 8.8 million residents, the census showed. One reason is a more accurate count, officials said.",
+            "des_facet": [
+                "Census",
+                "Population"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Crowds in Times Square in Midtown Manhattan in June.",
+                    "copyright": "Joshua Bright for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/12/lens/12census-briefings-nyc1/12census-briefings-nyc1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/12/lens/12census-briefings-nyc1/merlin_189462357_a41cf263-7c3f-422f-88a7-38d9a7d4002a-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/12/lens/12census-briefings-nyc1/merlin_189462357_a41cf263-7c3f-422f-88a7-38d9a7d4002a-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4d3ef1bb-0cc2-598b-b4d2-ad87269cf420",
+            "url": "https://www.nytimes.com/2021/08/08/us/frozen-honey-challenge-tiktok.html",
+            "id": 100000007910875,
+            "asset_id": 100000007910875,
+            "source": "New York Times",
+            "published_date": "2021-08-08",
+            "updated": "2021-08-09 14:59:03",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Honey;Video Recordings, Downloads and Streaming;Social Media;TikTok (ByteDance)",
+            "column": null,
+            "byline": "By Eduardo Medina",
+            "type": "Article",
+            "title": "TikTok Trend: Eating Frozen Honey and Risking Ill Effects",
+            "abstract": "Like some social media trends, this one has its problems, including stomach aches, diarrhea and bad teeth, health experts said.",
+            "des_facet": [
+                "Honey",
+                "Video Recordings, Downloads and Streaming",
+                "Social Media"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dave Ramirez taking a bite of frozen honey on TikTok. “I’m not going to lie,” he said. “That was pretty refreshing.”",
+                    "copyright": "Left, Audra Melton for The New York Times; right Dave Ramirez",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/07/multimedia/07XP-TikTok-Honey-Combo/07XP-TikTok-Honey-Combo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/07/multimedia/07XP-TikTok-Honey-Combo/07XP-TikTok-Honey-Combo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/08/07/multimedia/07XP-TikTok-Honey-Combo/07XP-TikTok-Honey-Combo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
