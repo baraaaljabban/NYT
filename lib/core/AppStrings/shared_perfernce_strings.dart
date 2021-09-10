@@ -1,0 +1,1 @@
+const CACHED_TOKEN = 'CACHED_TOKEN';
