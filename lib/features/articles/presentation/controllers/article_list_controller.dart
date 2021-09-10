@@ -11,7 +11,7 @@ class ArticleListController extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Center(
-          child: Text("Your Articles"),
+          child: Text("Articles"),
         ),
       ),
       body: articles.length == 0
@@ -20,17 +20,14 @@ class ArticleListController extends StatelessWidget {
               scrollDirection: Axis.vertical,
               itemCount: articles.length,
               itemBuilder: (BuildContext context, int index) {
-                return Container(
-                  margin: EdgeInsets.all(8),
-                  child: Card(
-                    borderOnForeground: true,
-                    clipBehavior: Clip.hardEdge,
-                    elevation: 5,
-                    child: ListTile(
-                      leading: Icon(Icons.album),
-                      title: Text(articles[index].title),
-                      subtitle: Text(articles[index].publishedDate),
-                    ),
+                return Card(
+                  borderOnForeground: true,
+                  clipBehavior: Clip.hardEdge,
+                  elevation: 5,
+                  child: ListTile(
+                    leading: Text("${index+1}"),
+                    title: Text(articles[index].title),
+                    subtitle: Text(articles[index].publishedDate),
                   ),
                 );
               },

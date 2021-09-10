@@ -38,17 +38,16 @@ class _ArticalesPageState extends State<ArticalesPage>
                 children: [
                   Spacer(flex: 1),
                   Text(
-                    "search ",
+                    "Search ",
                     style: TextStyle(fontSize: 18),
                   ),
-                  Card(
-                    borderOnForeground: true,
-                    clipBehavior: Clip.hardEdge,
-                    elevation: 5,
-                    child: ListTile(
-                      leading: Icon(Icons.search),
-                      title: Text("search"),
-                      trailing: Icon(Icons.navigate_next),
+                  GestureDetector(
+                    onTap: () {
+                      goToSearchController(context);
+                    },
+                    child: MyCard(
+                      icon: Icon(Icons.search),
+                      title: ("Search"),
                     ),
                   ),
                   Spacer(flex: 1),
@@ -58,53 +57,59 @@ class _ArticalesPageState extends State<ArticalesPage>
                   ),
                   GestureDetector(
                     onTap: () {
-                      getTheMost("emailed", context);
+                      getTheMostPopular("emailed", context);
                     },
-                    child: Card(
-                      borderOnForeground: true,
-                      clipBehavior: Clip.hardEdge,
-                      elevation: 5,
-                      child: ListTile(
-                        leading: Icon(Icons.email),
-                        title: Text("Most Emailed"),
-                        trailing: Icon(Icons.navigate_next),
-                      ),
+                    child: MyCard(
+                      title: "Most Emailed",
+                      icon: Icon(Icons.email),
                     ),
                   ),
                   GestureDetector(
                     onTap: () {
-                      getTheMost("viewed", context);
+                      getTheMostPopular("viewed", context);
                     },
-                    child: Card(
-                      borderOnForeground: true,
-                      clipBehavior: Clip.hardEdge,
-                      elevation: 5,
-                      child: ListTile(
-                        leading: Icon(Icons.remove_red_eye),
-                        title: Text("Most Viewed"),
-                        trailing: Icon(Icons.navigate_next),
-                      ),
+                    child: MyCard(
+                      title: "Most Viewed",
+                      icon: Icon(Icons.remove_red_eye),
                     ),
                   ),
                   GestureDetector(
                     onTap: () {
-                      getTheMost("shared", context);
+                      getTheMostPopular("shared", context);
                     },
-                    child: Card(
-                      borderOnForeground: true,
-                      clipBehavior: Clip.hardEdge,
-                      elevation: 5,
-                      child: ListTile(
-                        leading: Icon(Icons.share_rounded),
-                        title: Text("Most Shared"),
-                        trailing: Icon(Icons.navigate_next),
-                      ),
+                    child: MyCard(
+                      title: "Most Shared",
+                      icon: Icon(Icons.share),
                     ),
                   ),
                   Spacer(flex: 2),
                 ],
               ));
         },
+      ),
+    );
+  }
+}
+
+class MyCard extends StatelessWidget {
+  final String title;
+  final Icon icon;
+  MyCard({
+    required this.title,
+    required this.icon,
+    Key? key,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      borderOnForeground: true,
+      clipBehavior: Clip.hardEdge,
+      elevation: 5,
+      child: ListTile(
+        leading: icon,
+        title: Text(title),
+        trailing: Icon(Icons.navigate_next),
       ),
     );
   }

@@ -4,7 +4,7 @@ import 'package:get_it/get_it.dart';
 import 'package:http/http.dart' as http;
 import 'package:nyt_app/core/Network/http_client.dart';
 import 'package:nyt_app/core/Network/network_info.dart';
-import 'package:nyt_app/features/articles/a_export/articl_export.dart';
+import 'package:nyt_app/features/articles/article_export/articl_export.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 part 'articls.dart';
 

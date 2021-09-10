@@ -5,6 +5,7 @@ import 'package:nyt_app/features/articles/domain/usecases/most_popular.dart';
 import 'package:nyt_app/features/articles/domain/usecases/search_uc.dart';
 import 'package:nyt_app/features/articles/presentation/bloc/articles_bloc.dart';
 import 'package:nyt_app/features/articles/presentation/controllers/article_list_controller.dart';
+import 'package:nyt_app/features/articles/presentation/controllers/search_controller.dart';
 
 class ArticlePageNavigation {
   void moveToArticleListController(
@@ -19,13 +20,22 @@ class ArticlePageNavigation {
     );
   }
 
-  void getTheMost(String type, BuildContext context) {
+  void getTheMostPopular(String type, BuildContext context) {
     BlocProvider.of<ArticlesBloc>(context).add(
       MostPopularEvent(
         params: MostPopularArticleParams(
           days: 7,
           type: type,
         ),
+      ),
+    );
+  }
+
+  void goToSearchController(BuildContext context) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => SearchController(),
       ),
     );
   }

@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
 import 'package:nyt_app/core/AppStrings/error_strings.dart';
-import 'package:nyt_app/features/articles/a_export/articl_export.dart';
+import 'package:nyt_app/features/articles/article_export/articl_export.dart';
 
 import 'package:nyt_app/features/articles/domain/entities/article.dart';
 import 'package:nyt_app/features/articles/domain/usecases/most_popular.dart';
