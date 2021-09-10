@@ -1,4 +1,4 @@
-# nyt_app
+# New York Times Articles App
 
 A new Flutter project.
 
