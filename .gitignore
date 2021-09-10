@@ -49,3 +49,4 @@ app.*.map.json
 #App String for API Key
 /lib/core/AppStrings/server_strings
 /lib/core/AppStrings/server_strings.dart
+/Users/tbaraa/Desktop/nyt_app/lib/core/AppStrings/server_strings.dart
