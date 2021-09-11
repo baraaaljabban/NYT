@@ -28,6 +28,10 @@ git clone https://github.com/baraaaljabban/NYT
 cd setel_geofence
 flutter run
 ```
+```bash
+run tests by using 
+flutter test
+```
 
 ## Improvements
 1. UI  could be better and we can move the 3 types of the most popular to be like taps
