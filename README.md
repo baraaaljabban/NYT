@@ -23,7 +23,10 @@ This Application will let you search and brows some articles from the New-York t
 
 ## Getting Started
 ```bash
-get your api key from https://developer.nytimes.com and use it in getApiKey()
+get your api key from https://developer.nytimes.com and use it in getApiKey() in HttpHelper() class
+```
+then 
+```bash
 git clone https://github.com/baraaaljabban/NYT
 cd setel_geofence
 flutter run
