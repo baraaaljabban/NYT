@@ -13,6 +13,13 @@ import 'package:nyt_app/features/articles/domain/repositories/article_repository
 import 'package:nyt_app/features/articles/domain/usecases/most_popular.dart'
     as _i4;
 
+// ignore_for_file: avoid_redundant_argument_values
+// ignore_for_file: avoid_setters_without_getters
+// ignore_for_file: comment_references
+// ignore_for_file: implementation_imports
+// ignore_for_file: invalid_use_of_visible_for_testing_member
+// ignore_for_file: prefer_const_constructors
+// ignore_for_file: unnecessary_parenthesis
 
 class _FakeArticleRepository_0 extends _i1.Fake
     implements _i2.ArticleRepository {}
@@ -34,7 +41,7 @@ class MockMostPopularArticleUC extends _i1.Mock
           returnValue: _FakeArticleRepository_0()) as _i2.ArticleRepository);
   @override
   _i5.Future<_i3.Either<_i6.Failure, List<_i7.Article>>> call(
-          {required _i4.MostPopularArticleParams params}) =>
+          {_i4.MostPopularArticleParams? params}) =>
       (super.noSuchMethod(Invocation.method(#call, [], {#params: params}),
           returnValue: Future<_i3.Either<_i6.Failure, List<_i7.Article>>>.value(
               _FakeEither_1<_i6.Failure, List<_i7.Article>>())) as _i5

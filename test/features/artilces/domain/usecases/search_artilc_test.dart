@@ -5,22 +5,19 @@ import 'package:mockito/mockito.dart';
 import 'package:nyt_app/features/articles/article_export/articl_export.dart';
 import 'package:nyt_app/features/articles/domain/entities/article.dart';
 
-import 'most_pop_test.mocks.dart';
+import 'search_artilc_test.mocks.dart';
 
-@GenerateMocks([MostPopularArticleUC])
+@GenerateMocks([SearchArticleUC])
 void main() {
-  test('test useCase of Most Popular Articles that will return list of artilcs',
+  test('test useCase of Searching Articles that will return list of artilcs',
       () async {
-    final usecase = MockMostPopularArticleUC();
+    final usecase = MockSearchArticleUC();
     List<Article> articls = [
       Article(publishedDate: "publishedDate1", title: "title"),
       Article(publishedDate: "publishedDate2", title: "title2"),
     ];
-    final params = MostPopularArticleParams(
-      days: 7,
-      type: "emailed",
-    );
-   
+    final params = SearchArticleParams(query: "Sand");
+
     when(usecase.call(params: params)).thenAnswer((_) async => Right(articls));
     expect(
       await usecase.call(params: params),
