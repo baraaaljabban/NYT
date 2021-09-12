@@ -28,25 +28,25 @@ class _FakeArticleSearchResponse_1 extends Fake
 /// See the documentation for Mockito's code generation for more information.
 class MockArticleRemoteDataSrouce extends Mock
     implements ArticleRemoteDataSrouce {
-  // MockArticleRemoteDataSrouce() {
-    // throwOnMissingStub(this);
-  // }
+  MockArticleRemoteDataSrouce() {
+    throwOnMissingStub(this);
+  }
 
-  // @override
-  // Future<ArticleMostPopularResponse> getMostPopularArticle(
-  //         {required String type, required int days}) =>
-  //     (super.noSuchMethod(
-  //             Invocation.method(
-  //                 #getMostPopularArticle, [], {#type: type, #days: days}),
-  //             returnValue: Future<ArticleMostPopularResponse>.value(
-  //                 _FakeArticleMostPopularResponse_0()))
-  //         as Future<ArticleMostPopularResponse>);
-  // @override
-  // Future<ArticleSearchResponse> searchArticle({String? query}) => (super
-  //         .noSuchMethod(Invocation.method(#searchArticle, [], {#query: query}),
-  //             returnValue: Future<ArticleSearchResponse>.value(
-  //                 _FakeArticleSearchResponse_1()))
-  //     as Future<ArticleSearchResponse>);
-  // @override
-  // String toString() => super.toString();
+  @override
+  Future<ArticleMostPopularResponse> getMostPopularArticle(
+          {required String type, required int days}) =>
+      (super.noSuchMethod(
+              Invocation.method(
+                  #getMostPopularArticle, [], {#type: type, #days: days}),
+              returnValue: Future<ArticleMostPopularResponse>.value(
+                  _FakeArticleMostPopularResponse_0()))
+          as Future<ArticleMostPopularResponse>);
+  @override
+  Future<ArticleSearchResponse> searchArticle({String? query}) => (super
+          .noSuchMethod(Invocation.method(#searchArticle, [], {#query: query}),
+              returnValue: Future<ArticleSearchResponse>.value(
+                  _FakeArticleSearchResponse_1()))
+      as Future<ArticleSearchResponse>);
+  @override
+  String toString() => super.toString();
 }

@@ -33,8 +33,8 @@ void main() {
   }
 
   group('getMostPopularArticle', () {
-    final tNumberTriviaModel = ArticleMostPopularResponse(results: []);
-    final tNumberTrivia = tNumberTriviaModel;
+    final responseModel = ArticleMostPopularResponse(results: []);
+    final response = responseModel;
 
     test(
       'should check if the device is online',
@@ -55,14 +55,14 @@ void main() {
           // arrange
           when(mockRemoteDataSource.getMostPopularArticle(
                   type: "emailed", days: 7))
-              .thenAnswer((_) async => tNumberTriviaModel);
+              .thenAnswer((_) async => responseModel);
           // act
           final result =
               await repository.getMostPopularArticle(type: "emailed", days: 7);
           // assert
           verify(mockRemoteDataSource.getMostPopularArticle(
               type: "emailed", days: 7));
-          expect(result, equals(tNumberTrivia));
+          expect(result, equals(response));
         },
       );
 
@@ -84,9 +84,9 @@ void main() {
   });
 
   group('getMostPopularArticle', () {
-    ArticleMostPopularResponse tNumberTriviaModel =
+    ArticleMostPopularResponse responseModel =
         ArticleMostPopularResponse(results: []);
-    final tNumberTrivia = tNumberTriviaModel;
+    final response = responseModel;
 
     test(
       'should check if the device is online',
@@ -107,14 +107,14 @@ void main() {
           // arrange
           when(mockRemoteDataSource.getMostPopularArticle(
                   days: 7, type: "emailed"))
-              .thenAnswer((_) async => tNumberTriviaModel);
+              .thenAnswer((_) async => responseModel);
           // act
           final result =
               await repository.getMostPopularArticle(days: 7, type: "emailed");
           // assert
           verify(mockRemoteDataSource.getMostPopularArticle(
               days: 7, type: "emailed"));
-          expect(result, equals(tNumberTrivia));
+          expect(result, equals(response));
         },
       );
 
@@ -124,7 +124,7 @@ void main() {
           // arrange
           when(mockRemoteDataSource.getMostPopularArticle(
                   days: 7, type: "emailed"))
-              .thenAnswer((_) async => tNumberTriviaModel);
+              .thenAnswer((_) async => responseModel);
           // act
           await repository.getMostPopularArticle(days: 7, type: "emailed");
           // assert
