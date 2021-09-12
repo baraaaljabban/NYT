@@ -28,7 +28,7 @@ get your api key from https://developer.nytimes.com and use it in getApiKey() in
 then 
 ```bash
 git clone https://github.com/baraaaljabban/NYT
-cd setel_geofence
+cd nyt
 flutter run
 ```
 ```bash
