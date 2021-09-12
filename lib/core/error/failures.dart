@@ -6,6 +6,9 @@ abstract class Failure {
 class InternetConnectionFailure extends Failure {
   InternetConnectionFailure(String message) : super(message);
 }
+class InternetConnectionFailures extends Failure {
+  InternetConnectionFailures() : super("");
+}
 
 class UnExpectedServerResponseFailure extends Failure {
   UnExpectedServerResponseFailure(String message) : super(message);

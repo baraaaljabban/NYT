@@ -38,7 +38,7 @@ class _ArticalesPageState extends State<ArticalesPage>
                 children: [
                   Spacer(flex: 1),
                   Text(
-                    "Search ",
+                    "Search",
                     style: TextStyle(fontSize: 18),
                   ),
                   GestureDetector(
@@ -47,7 +47,7 @@ class _ArticalesPageState extends State<ArticalesPage>
                     },
                     child: MyCard(
                       icon: Icon(Icons.search),
-                      title: ("Search"),
+                      title: ("Search Articles"),
                     ),
                   ),
                   Spacer(flex: 1),

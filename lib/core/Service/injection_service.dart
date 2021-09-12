@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:nyt_app/core/Network/http_client.dart';
 import 'package:nyt_app/core/Network/network_info.dart';
 import 'package:nyt_app/features/articles/article_export/articl_export.dart';
-import 'package:shared_preferences/shared_preferences.dart';
+// import 'package:shared_preferences/shared_preferences.dart';
 part 'articls.dart';
 
 final sl = GetIt.instance;
@@ -18,8 +18,8 @@ Future<void> init() async {
         connectivity: sl(),
         dataConnectionChecker: sl(),
       ));
-  final sharedPreferences = await SharedPreferences.getInstance();
-  sl.registerLazySingleton(() => sharedPreferences);
+  // final sharedPreferences = await SharedPreferences.getInstance();
+  // sl.registerLazySingleton(() => sharedPreferences);
   sl.registerLazySingleton(() => http.Client());
   sl.registerLazySingleton(() => HttpHelper());
    articlDependencyIncection();

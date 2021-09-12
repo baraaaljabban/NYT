@@ -32,7 +32,7 @@ class ArticlesBloc extends Bloc<ArticlesEvent, ArticlesState> {
         (r) => ArticleListState(articles: r),
       );
     } else if (event is SearchArticleEvent) {
-      if (event.params.query.isEmpty)
+      if (event.params.query.trim().isEmpty)
         yield Error(message: EMPTY_QUERY);
       else {
         yield Loading();
